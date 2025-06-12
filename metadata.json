@@ -1,0 +1,6 @@
+{
+  "name": "Moon Base - A Starship Visual Editor",
+  "description": "A visual editor for creating, customizing, and managing Starship prompt configuration files (starship.toml).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
