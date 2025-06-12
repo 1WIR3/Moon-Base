@@ -91,12 +91,11 @@ This project is an evolving tool. If you have suggestions, find bugs, or want to
 
 ## 📄 License
 
-(Specify your license here, e.g., MIT License)
-
+GNU GENERAL PUBLIC LICENSE Version 3
 ---
 
 
-# Run and deploy your AI Studio app
+# Run and deploy 
 
 This contains everything you need to run your app locally.
 
